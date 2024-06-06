@@ -5,7 +5,6 @@ const page = () => {
   return (
     <div>
       <SignUp/>
-      no
     </div>
   )
 }
